@@ -10779,6 +10779,11 @@
   "resolved" "https://registry.npmjs.org/joycon/-/joycon-2.2.5.tgz"
   "version" "2.2.5"
 
+"jquery@^3.6.3":
+  "integrity" "sha512-bZ5Sy3YzKo9Fyc8wH2iIQK4JImJ6R0GWI9kL1/k7Z91ZBNgkRXE6U0JfHIizZbort8ZunhSI3jw9I6253ahKfg=="
+  "resolved" "https://registry.npmjs.org/jquery/-/jquery-3.6.3.tgz"
+  "version" "3.6.3"
+
 "js-base64@^3.7.2":
   "integrity" "sha512-PAr6Xg2jvd7MCR6Ld9Jg3BmTcjYsHEBx1VlwEwULb/qowPf5VD9kEMagj23Gm7JRnSvE/Da/57nChZjnvL8v6A=="
   "resolved" "https://registry.npmjs.org/js-base64/-/js-base64-3.7.3.tgz"
